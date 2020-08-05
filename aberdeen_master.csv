@@ -1,0 +1,447 @@
+First_line,City,Postcode,Council_ward,Bedrooms,Bathrooms,Lounges,Price,Square_ft,Property_type,Council_tax_band,EPC_band,Parking,Longitude,Latitude
+2 Albert Den,Aberdeen,AB25 1YX,Midstocket/Rosemount,2,2,1,750,75,Flat,CT Band E,EPC band C,Parking,-2.117279,57.1461223
+3c Anderson Drive,Aberdeen,AB15 4ST,Airyhall/Broomhill/Garthdee,2,2,1,750,82,Flat,CT Band E,EPC band C,Parking,-2.134405992,57.13363112
+11 Cypress Avenue,Aberdeen,AB23 8LA,Bridge of Don,2,1,1,625,69,House Semi Detached,CT Band C,EPC band C,Parking,-2.1005885,57.1994854
+"First Floor Left,  31 Bank Street",Aberdeen,AB11 7TA,Torry/Ferryhill,1,1,1,475,46,Flat,CT Band B,EPC band C,Parking,-2.1005327,57.1380159
+66 Ashgrove Road,Aberdeen,AB25 3AD,Midstocket/Rosemount,2,1,1,550,53,Flat,CT Band B,EPC band D,,-2.1190668,57.1587937
+124e North Deeside Road,Aberdeen,AB14 0RS,Lower Deeside,2,2,1,695,72,Flat,CT Band E,EPC band B,Parking,-2.2636539,57.09612
+"36 Dempsey Court, Queens Lane North",Aberdeen,AB15 4DY,Hazlehead/Queens Cross/Countesswells,2,2,1,1100,86,Flat,CT Band F,EPC band C,Parking,-2.1296858,57.1434534
+"Basement Flat Left,  164 Crown Street",Aberdeen,AB11 6JB,Torry/Ferryhill,2,1,1,495,56,Flat,CT Band B,EPC band C,,-2.101012,57.1403439
+"Flat G,  54 Charlotte Street",Aberdeen,AB25 1LT,George St/Harbour,2,1,1,525,56,Flat,CT Band D,EPC band C,Parking,-2.10447254,57.15133109
+19B Whitehouse Street,Aberdeen,AB10 1QJ,Midstocket/Rosemount,2,1,1,550,74,Flat,CT Band D,EPC band E,,-2.111434,57.146558
+180 Great Western Road,Aberdeen,AB10 6PB,Hazlehead/Queens Cross/Countesswells,2,1,1,550,59,Flat,CT Band C,EPC band D,,-2.1201827,57.1374676
+67 Mary Elmslie Court,Aberdeen,AB24 5BS,George St/Harbour,2,1,1,550,58,Flat,CT Band E,EPC band C,Parking,-2.092387,57.155907
+9 Northfield Place,Aberdeen,AB25 1SB,Midstocket/Rosemount,1,1,1,395,38,Flat,CT Band B,EPC band D,,-2.113521,57.147894
+14 Callum Wynd,Aberdeen,AB15 8XL,Kingswells/Sheddocksley/Summerhill,3,2,2,850,87,House Detached,CT Band F,EPC band D,,-2.2284622,57.1595697
+38 Ferguson Court,Aberdeen,AB21 9AG,Dyce/Bucksburn/Danestone,2,1,1,525,55,Flat,CT Band B,EPC band E,Parking,-2.1686741,57.1778083
+"61 College Gardens,  Littlejohn Street",Aberdeen,AB10 1FL,George St/Harbour,2,1,1,650,57,Flat,CT Band D,EPC band D,Parking,-2.0961592,57.1496834
+22 Hartington Road,Aberdeen,AB10 6YA,Hazlehead/Queens Cross/Countesswells,1,1,1,425,38,Flat,CT Band B,EPC band D,,-2.1230557,57.1410315
+"Top Floor Right,  11 Commerce Street",Aberdeen,AB11 5EU,George St/Harbour,1,1,1,375,30,Flat,CT Band A,EPC band F,,-2.0876496,57.1470459
+"TFR,  53 Claremont Grove",Aberdeen,AB10 6RF,Hazlehead/Queens Cross/Countesswells,2,1,1,550,78,Flat,CT Band D,EPC band D,Parking,-2.1210778,57.1391735
+54 Urquhart Terrace,Aberdeen,AB24 5NJ,George St/Harbour,2,1,1,450,64,Flat,CT Band C,EPC band C,Parking,-2.087426,57.155192
+67 Bon Accord Street,Aberdeen,AB11 6EB,Torry/Ferryhill,1,1,1,400,37,Flat,CT Band A,EPC band E,,-2.105113,57.1426548
+16 Overhills Walk,Aberdeen,AB21 9UZ,Dyce/Bucksburn/Danestone,3,1,2,850,67,House Terraced,CT Band C,EPC band C,Parking,-2.1913594,57.1731495
+"GFR,  536 Great Western Road",Aberdeen,AB10 6PG,Airyhall/Broomhill/Garthdee,1,1,1,450,47,Flat,CT Band B,EPC band C,Parking,-2.1382125,57.1312323
+"Top Floor,  16 Sunnybank Place",Aberdeen,AB24 3LA,George St/Harbour,4,2,1,960,34,Flat,CT Band D,EPC band C,,-2.1064093,57.1590443
+123 Lee Crescent North,Aberdeen,AB22 8FQ,Bridge of Don,2,1,1,675,72,House Semi Detached,CT Band C,EPC band C,Parking,-2.1317964,57.1960235
+"43 Nelson Court,  King Street",Aberdeen,AB24 5BF,George St/Harbour,1,1,1,450,39,Flat,CT Band B,EPC band C,Parking,-2.0953615,57.1557155
+25 Wallfield Place,Aberdeen,AB25 2JR,Midstocket/Rosemount,1,1,1,500,48,Flat,CT Band A,EPC band C,,-2.1203615,57.1484377
+19 Wallacebrae Avenue,Aberdeen,AB22 8XL,Dyce/Bucksburn/Danestone,2,1,1,650,49,House Semi Detached,CT Band C,EPC band C,Parking,-2.1428648,57.1813052
+44 Roslin Place,Aberdeen,AB24 5BL,George St/Harbour,2,1,1,550,57,Flat,CT Band C,EPC band B,Parking,-2.0882405,57.1531966
+"Second Floor Left,  173 Victoria Road",Aberdeen,AB11 9ND,Torry/Ferryhill,1,1,1,375,51,Flat,CT Band A,EPC band D,,-2.084241,57.13588
+102 Bedford Road,Aberdeen,AB24 3LQ,Tillydrone/Seaton/Old Aberdeen,3,1,1,750,66,Flat,CT Band B,EPC band D,,-2.1068124,57.164299
+"9 Ruthrieston Court,  Riverside Drive",Aberdeen,AB10 7QF,Torry/Ferryhill,2,1,1,650,58,Flat,CT Band D,EPC band C,Parking,-2.1173263,57.1275973
+20 Queens Avenue,Aberdeen,AB15 6WA,Hazlehead/Queens Cross/Countesswells,3,3,1,950,112,Flat,CT Band E,EPC band C,Parking,-2.1457334,57.1401084
+"2 Cothill Cottages,  Grandhome Estate",Aberdeen,AB22 8AR,Dyce/Bucksburn/Danestone,3,1,1,750,73,House Detached,CT Band E,EPC band E,Parking,-2.1606397,57.19777
+"Flat 7, Ogilvie Buildings,  77 Dee Street",Aberdeen,AB11 6FF,Torry/Ferryhill,1,1,1,450,54,Flat,CT Band C,EPC band D,,-2.102821,57.1420221
+7 Seaton Stables,Aberdeen,AB24 1XS,Tillydrone/Seaton/Old Aberdeen,3,2,1,745,92,House Semi Detached,CT Band E,EPC band D,Parking,-2.0990425,57.1746391
+"Flat D,  19 Sunnybank Road",Aberdeen,AB24 3NJ,George St/Harbour,1,1,1,425,48,Flat,CT Band B,EPC band C,Parking,-2.1015996,57.159882
+58F Baker Street,Aberdeen,AB25 1UT,Midstocket/Rosemount,1,1,1,400,33,Flat,CT Band A,EPC band D,,-2.11022,57.149424
+3 Mount Street,Aberdeen,AB25 2RA,Midstocket/Rosemount,2,1,1,750,94,Flat,CT Band E,EPC band D,Parking,-2.1126829,57.1510355
+19 Forest Avenue,Aberdeen,AB15 4TU,Hazlehead/Queens Cross/Countesswells,2,1,1,800,78,Flat,CT Band E,EPC band D,,-2.1276727,57.1359281
+"35 Aspire Grove,  36 Claremont Street",Aberdeen,AB10 6RA,Hazlehead/Queens Cross/Countesswells,2,2,1,750,74,Flat,CT Band E,EPC band C,Parking,-2.1201026,57.1395664
+"First Floor Left,  77 Leadside Road",Aberdeen,AB25 1RX,Midstocket/Rosemount,1,1,1,425,54,Flat,CT Band B,EPC band C,,-2.1139386,57.1485074
+17F Claremont Street,Aberdeen,AB10 6QQ,Hazlehead/Queens Cross/Countesswells,1,1,1,400,41,Flat,CT Band A,EPC band E,,-2.1185216,57.1397451
+"Flat E,  678 Great Northern Road",Aberdeen,AB24 2GG,Hilton/Woodside/Stockethill,1,1,1,495,49,Flat,CT Band A,EPC band C,Parking,-2.1306997,57.1720152
+"Danestone Cottage East,  122 Fairview Crescent",Aberdeen,AB22 8ZT,Dyce/Bucksburn/Danestone,3,1,1,850,87,House Detached,CT Band D,EPC band D,Parking,-2.1329227,57.1842959
+71 Whitehall Road,Aberdeen,AB25 2PQ,Hazlehead/Queens Cross/Countesswells,1,1,1,550,50,Flat,CT Band C,EPC band C,Parking,-2.124964389,57.14644287
+58 Bannermill Place,Aberdeen,AB24 5EB,George St/Harbour,2,1,1,650,65,Flat,CT Band D,EPC band C,Parking,-2.0848223,57.151573
+113 Spital,Aberdeen,AB24 3HX,George St/Harbour,2,1,1,550,66,Flat,CT Band C,EPC band C,Parking,-2.1002282,57.1598016
+"Flat B,  6 Crimon Place",Aberdeen,AB10 1RY,Midstocket/Rosemount,1,1,1,450,45,Flat,CT Band A,EPC band C,Parking,-2.106574,57.146014
+"126F Rubislaw Mansions,  Queens Road",Aberdeen,AB15 8BR,Hazlehead/Queens Cross/Countesswells,2,2,1,800,75,Flat,CT Band E,EPC band D,Parking,-2.1460982,57.1392971
+25 Mountview Gardens,Aberdeen,AB25 2RT,Midstocket/Rosemount,2,1,1,695,61,Flat,CT Band D,EPC band C,Parking,-2.113348,57.1508856
+59 McIntosh Crescent,Aberdeen,AB21 7AF,Dyce/Bucksburn/Danestone,1,1,1,575,74,Flat,CT Band C,EPC band C,Parking,-2.1899837,57.2125904
+128D Balmoral Square,Aberdeen,AB10 6QE,Hazlehead/Queens Cross/Countesswells,2,1,1,725,73,Flat,CT Band E,EPC band C,Parking,-2.1104555,57.1337161
+53A Rose Street,Aberdeen,AB10 1UB,Midstocket/Rosemount,1,1,1,500,43,Flat,CT Band B,EPC band D,,-2.1118836,57.1446341
+"Ground Floor Left,  194 Holburn Street",Aberdeen,AB10 6DA,Airyhall/Broomhill/Garthdee,1,1,1,575,50,Flat,CT Band B,EPC band C,,-2.1142416,57.138626
+125 Anderson Drive,Aberdeen,AB15 6BG,Hazlehead/Queens Cross/Countesswells,4,2,4,1500,330,House Detached,CT Band H,EPC band E,Parking,-2.143854,57.141288
+69 Laurel Avenue,Aberdeen,AB22 8QH,Dyce/Bucksburn/Danestone,3,1,2,750,88,House Detached,CT Band E,EPC band D,Parking,-2.1251055,57.1783544
+24 Thorngrove Place,Aberdeen,AB15 7FJ,Airyhall/Broomhill/Garthdee,2,1,1,550,60,Flat,CT Band E,EPC band C,Parking,-2.1384372,57.1331549
+"Top floor flat, 12 West Glendale Mews,  Union Glen",Aberdeen,AB11 6FR,Torry/Ferryhill,1,1,1,500,58,Flat,CT Band C,EPC band D,Parking,-2.1126473,57.1409491
+3 Caledonian Court,Aberdeen,AB11 6RG,Torry/Ferryhill,2,2,1,850,88,Flat,CT Band E,EPC band E,Parking,-2.10169767,57.13917629
+133 Craigton Road,Aberdeen,AB15 7TZ,Airyhall/Broomhill/Garthdee,5,3,3,2300,236,House Detached,CT Band H,EPC band C,Parking,-2.1519015,57.12871596
+86 Jesmond Grange,Aberdeen,AB22 8HD,Bridge of Don,2,1,1,650,64,House Terraced,CT Band D,EPC band C,Parking,-2.1246288,57.1961635
+312 Hilton Drive,Aberdeen,AB24 4PY,Hilton/Woodside/Stockethill,2,1,1,525,49,Flat,CT Band B,EPC band F,Parking,-2.136742,57.170688
+5 Mearns Street,Aberdeen,AB11 5ER,George St/Harbour,2,1,1,495,49,Flat,CT Band C,EPC band C,,-2.089222385,57.14660854
+68 Holburn Street,Aberdeen,AB10 6BX,Hazlehead/Queens Cross/Countesswells,2,1,1,750,74,Flat,CT Band C,EPC band D,,-2.113286,57.1414356
+3 Gaitside Crescent,Aberdeen,AB10 7EG,Airyhall/Broomhill/Garthdee,4,2,1,950,102,House Semi Detached,CT Band A,EPC band D,Parking,-2.143137865,57.12141234
+16 Ferryhill Terrace,Aberdeen,AB11 6SQ,Torry/Ferryhill,1,1,1,425,39,Flat,CT Band A,EPC band E,,-2.102424,57.13946
+"5 Dempsey Court, Queens Lane North",Aberdeen,AB15 4DY,Hazlehead/Queens Cross/Countesswells,2,2,1,1000,101,Flat,CT Band F,EPC band B,Parking,-2.1286123,57.1437342
+32 Ferguson Court,Aberdeen,AB21 9AG,Dyce/Bucksburn/Danestone,2,1,1,550,59,Flat,CT Band B,EPC band E,Parking,-2.1686741,57.1778083
+"Flat A,  51 Marischal Street",Aberdeen,AB11 5AB,George St/Harbour,1,1,1,390,56,Flat,CT Band A,EPC band C,,-2.091930269,57.1467474
+"Flat B,  10 Spital",Aberdeen,AB24 3HS,George St/Harbour,1,1,1,400,43,Flat,CT Band B,EPC band C,,-2.09911,57.1576349
+78 Shaw Crescent,Aberdeen,AB25 3BU,Midstocket/Rosemount,2,2,1,700,78,Flat,CT Band D,EPC band B,Parking,-2.1234401,57.1575037
+45 Nelson Street,Aberdeen,AB24 5ER,George St/Harbour,2,1,1,650,74,Flat,CT Band C,EPC band D,Parking,-2.097859811,57.15414632
+"Flat 8,  30 Orchard Street",Aberdeen,AB24 3DD,Tillydrone/Seaton/Old Aberdeen,2,1,1,550,54,Flat,CT Band D,EPC band D,Parking,-2.0993624,57.1609501
+41 Craigieburn Park,Aberdeen,AB15 7SG,Hazlehead/Queens Cross/Countesswells,2,2,1,725,72,Flat,CT Band F,EPC band F,,-2.154123,57.135095
+134 Hardgate,Aberdeen,AB11 6YU,Torry/Ferryhill,2,1,1,500,44,Flat,CT Band B,EPC band C,Parking,-2.1112644,57.139542
+3 Headland Court,Aberdeen,AB10 7HL,Airyhall/Broomhill/Garthdee,2,1,1,550,49,Flat,CT Band B,EPC band D,Parking,-2.1242238,57.1263966
+41 Nellfield Place,Aberdeen,AB10 6DH,Airyhall/Broomhill/Garthdee,1,1,1,475,36,Flat,CT Band A,EPC band D,,-2.117622,57.138369
+44 Esslemont Avenue,Aberdeen,AB25 1SQ,Midstocket/Rosemount,1,1,1,450,35,Flat,CT Band A,EPC band E,,-2.115671,57.148602
+8A Watson Street,Aberdeen,AB25 2QD,Midstocket/Rosemount,1,1,1,475,44,Flat,CT Band C,EPC band D,,-2.1176139,57.1500854
+"37 Glendale Mews, Union Glen",Aberdeen,AB11 6FN,Torry/Ferryhill,2,1,1,575,60,Flat,CT Band D,EPC band C,Parking,-2.1100385,57.1410962
+105 Bannermill Place,Aberdeen,AB24 5EE,George St/Harbour,2,1,1,695,75,Flat,CT Band D,EPC band B,Parking,-2.085268,57.15124
+127 Willowpark Crescent,Aberdeen,AB16 6XU,Kingswells/Sheddocksley/Summerhill,2,1,1,650,77,House Terraced,CT Band A,EPC band D,,-2.1518108,57.1554532
+57F Rose Street,Aberdeen,AB10 1UB,Midstocket/Rosemount,1,1,1,450,48,Flat,CT Band C,EPC band E,Parking,-2.1122593,57.1452154
+217 Clifton Road,Aberdeen,AB24 4ET,Hilton/Woodside/Stockethill,3,1,2,750,88,Flat,CT Band C,EPC band D,,-2.123921,57.1666574
+60F Walker Road,Aberdeen,AB11 8BP,Torry/Ferryhill,2,1,1,395,48,Flat,CT Band A,EPC band F,Parking,-2.0879083,57.1373333
+41B Regent Walk,Aberdeen,AB24 1SX,Tillydrone/Seaton/Old Aberdeen,2,1,1,650,58,Flat,CT Band D,EPC band C,Parking,-2.0962146,57.1646498
+10 Richmond Terrace,Aberdeen,AB25 2RL,Midstocket/Rosemount,2,1,1,550,45,Flat,CT Band B,EPC band E,,-2.114026,57.151128
+"GFR,  238 Victoria Road",Aberdeen,AB11 9NS,Torry/Ferryhill,1,1,1,400,49,Flat,CT Band A,EPC band D,,-2.0781909,57.1365973
+5 Springbank Terrace,Aberdeen,AB11 6LS,Torry/Ferryhill,3,2,1,850,113,Flat,CT Band D,EPC band C,,-2.10234,57.1409611
+80 Hazlehead Terrace,Aberdeen,AB15 8EB,Hazlehead/Queens Cross/Countesswells,2,1,1,625,73,House Terraced,CT Band C,EPC band C,Parking,-2.174317,57.143243
+74 Dee Street,Aberdeen,AB11 6DS,Torry/Ferryhill,1,1,1,450,53,Flat,CT Band B,EPC band C,,-2.1031976,57.1422797
+23A Forbes Street,Aberdeen,AB25 2UG,Midstocket/Rosemount,1,1,1,425,37,Flat,CT Band A,EPC band D,,-2.111539875,57.15156697
+25 Grandholm Grove,Aberdeen,AB22 8AX,Dyce/Bucksburn/Danestone,5,3,3,1500,268,House Detached,CT Band F,EPC band C,Parking,-2.1179002,57.173815
+"Flat 21,  118 Rosemount Viaduct",Aberdeen,AB25 1NU,Midstocket/Rosemount,3,2,1,695,83,Flat,CT Band B,EPC band C,,-2.110146984,57.14902847
+"Flat 42,  108 Rosemount Viaduct",Aberdeen,AB25 1NX,Midstocket/Rosemount,2,2,1,575,71,Flat,CT Band C,EPC band F,,-2.110004785,57.1488815
+"Flat 2,  44 Gilcomston Park",Aberdeen,AB25 1PL,Midstocket/Rosemount,1,1,1,525,41,Flat,CT Band A,EPC band F,,-2.109285208,57.14901444
+"Flat 2,  44 Gilcomston Park",Aberdeen,AB25 1PL,Midstocket/Rosemount,1,1,1,525,41,Flat,CT Band B,EPC band F,,-2.109285208,57.14901444
+"Flat 12,  108 Rosemount Viaduct",Aberdeen,AB25 1NX,Midstocket/Rosemount,3,2,1,695,84,Flat,CT Band C,EPC band E,,-2.110066154,57.14899231
+24 Mill Court,Aberdeen,AB24 2UN,Tillydrone/Seaton/Old Aberdeen,2,1,1,475,57,Flat,CT Band C,EPC band D,Parking,-2.133043639,57.17367524
+"39B McDonald Court,  Froghall Terrace",Aberdeen,AB24 3JP,George St/Harbour,1,1,1,425,43,Flat,CT Band A,EPC band E,Parking,-2.103962,57.157425
+11 Wallfield Place,Aberdeen,AB25 2JS,Midstocket/Rosemount,1,1,1,495,44,Flat,CT Band A,EPC band D,,-2.1197143,57.1490646
+"Flat D,  9 Printfield Terrace",Aberdeen,AB24 4AL,Hilton/Woodside/Stockethill,3,1,1,750,77,Flat,CT Band B,EPC band C,,-2.123189,57.1673899
+132 Urquhart Road,Aberdeen,AB24 5DN,George St/Harbour,2,2,1,750,71,Flat,CT Band D,EPC band C,Parking,-2.0866724,57.154809
+380 Great Western Road,Aberdeen,AB10 6PH,Hazlehead/Queens Cross/Countesswells,6,2,3,1800,234,House Semi Detached,CT Band G,EPC band E,Parking,-2.128844,57.134495
+55 Gallowhill Terrace,Aberdeen,AB21 7NH,Dyce/Bucksburn/Danestone,1,1,1,450,49,Flat,CT Band A,EPC band D,Parking,-2.1735488,57.2071846
+33L Fraser Road,Aberdeen,AB25 3UE,George St/Harbour,2,2,1,580,66,Flat,CT Band D,EPC band B,Parking,-2.109706,57.1553891
+107 Spring Garden,Aberdeen,AB25 1DG,George St/Harbour,2,1,1,650,47,Flat,CT Band C,EPC band C,Parking,-2.1011956,57.1527979
+39 Mugiemoss Place,Aberdeen,AB21 9NZ,Dyce/Bucksburn/Danestone,3,1,1,875,75,House Terraced,CT Band D,EPC band B,Parking,-2.1650056,57.1784598
+22D Justice Mill Brae,Aberdeen,AB11 6EY,Torry/Ferryhill,2,1,1,580,64,Flat,CT Band D,EPC band C,Parking,-2.1114929,57.1412102
+3 Fraser Street,Aberdeen,AB25 3XT,George St/Harbour,2,1,1,425,41,Flat,CT Band A,EPC band D,,-2.1084086,57.1557471
+18 Collieston Path,Aberdeen,AB22 8LY,Bridge of Don,1,1,1,550,42,House Terraced,CT Band B,EPC band C,Parking,-2.1108161,57.1910734
+"Flat E,  50 Esslemont Avenue",Aberdeen,AB25 1SQ,Midstocket/Rosemount,1,1,1,375,36,Flat,CT Band A,EPC band D,,-2.1158489,57.1489986
+145 Oakhill Grange,Aberdeen,AB15 5EA,Midstocket/Rosemount,3,3,1,1800,148,House Terraced,CT Band B,EPC band B,Parking,-2.141065,57.1483996
+267c Westburn Road,Aberdeen,AB25 2QH,Midstocket/Rosemount,1,1,1,450,60,Flat,CT Band C,EPC band B,Parking,-2.1317345,57.1522221
+207 Headland Court,Aberdeen,AB10 7HZ,Airyhall/Broomhill/Garthdee,1,1,1,475,38,Flat,CT Band B,EPC band C,Parking,-2.122975363,57.1254961
+"Top Right,  17 Hartington Road",Aberdeen,AB10 6XT,Hazlehead/Queens Cross/Countesswells,1,1,1,500,43,Flat,CT Band B,EPC band E,,-2.1226126,57.1409064
+59 Bloomfield Court,Aberdeen,AB10 6DS,Torry/Ferryhill,2,1,1,625,55,Flat,CT Band D,EPC band C,Parking,-2.1120343,57.1352384
+"Flat E,  52 Erroll Street",Aberdeen,AB24 5PP,George St/Harbour,2,1,1,550,57,Flat,CT Band C,EPC band C,Parking,-2.0925067,57.1569944
+19 Bannermill Place,Aberdeen,AB24 5EA,George St/Harbour,2,1,1,599,65,Flat,CT Band D,EPC band C,Parking,-2.0854683,57.1521834
+102 Golf Road,Aberdeen,AB24 1RG,Tillydrone/Seaton/Old Aberdeen,2,1,1,750,78,Flat,CT Band B,EPC band D,,-2.0874553,57.1641847
+5 Belgrave Terrace,Aberdeen,AB25 2NR,Midstocket/Rosemount,1,1,1,500,45,Flat,CT Band A,EPC band D,,-2.1172429,57.1487875
+116 Burnside Road,Aberdeen,AB21 7HA,Dyce/Bucksburn/Danestone,4,2,2,995,125,House Semi Detached,CT Band F,EPC band B,Parking,-2.1800681,57.1999492
+"FFR,  127 Union Grove",Aberdeen,AB10 6SN,Hazlehead/Queens Cross/Countesswells,1,1,1,475,49,Flat,CT Band B,EPC band D,,-2.1185631,57.1409009
+25 Strawberry Bank Parade,Aberdeen,AB11 6US,Torry/Ferryhill,2,1,1,650,53,Flat,CT Band D,EPC band C,Parking,-2.108876,57.142059
+"Flat 3,  1A Golden Square",Aberdeen,AB10 1RD,Midstocket/Rosemount,2,2,1,975,96,Flat,CT Band D,EPC band C,Parking,-2.10452,57.1456309
+77 McIntosh Crescent,Aberdeen,AB21 7AF,Dyce/Bucksburn/Danestone,2,2,1,700,71,Flat,CT Band D,EPC band C,Parking,-2.1899837,57.2125904
+"Flat 25, Ogilvie Buildings,  77 Dee Street",Aberdeen,AB11 6FF,Torry/Ferryhill,1,1,1,475,50,Flat,CT Band C,EPC band C,,-2.102821,57.1420221
+31 Burnside Walk,Aberdeen,AB21 7HD,Dyce/Bucksburn/Danestone,3,2,1,995,89,House Terraced,CT Band B,EPC band B,Parking,-2.1776067,57.2004586
+22 Bridge Street,Aberdeen,AB11 6JJ,Torry/Ferryhill,2,1,1,500,82,Flat,CT Band C,EPC band G,,-2.101597,57.144967
+13 Roslin Street,Aberdeen,AB24 5NT,George St/Harbour,1,1,1,375,37,Flat,CT Band A,EPC band C,,-2.090233,57.154112
+"Flat d,  58 Erroll Street",Aberdeen,AB24 5PP,George St/Harbour,2,1,1,495,60,Flat,CT Band C,EPC band C,Parking,-2.092819,57.1569571
+"26 & A Half,  Bank Street",Aberdeen,AB11 7SX,Torry/Ferryhill,2,1,1,700,73,House Detached,CT Band E,EPC band E,,-2.0988362,57.1381626
+6 Erskine Street,Aberdeen,AB24 3NQ,George St/Harbour,2,1,2,795,82,Flat,CT Band D,EPC band D,,-2.1108682,57.1594329
+177c Hardgate,Aberdeen,AB11 6YB,Torry/Ferryhill,1,1,1,425,34,Flat,CT Band A,EPC band D,,-2.1126167,57.1379455
+"11 Sillerton House,  16 Albyn Terrace",Aberdeen,AB10 1YP,Hazlehead/Queens Cross/Countesswells,2,1,1,650,70,Flat,CT Band E,EPC band C,Parking,-2.1233248,57.1433378
+"Albany Court,  19 Gordon Street",Aberdeen,AB11 6FG,Torry/Ferryhill,2,1,1,550,61,Flat,CT Band D,EPC band C,Parking,-2.1043401,57.1428666
+37k Kings Gate,Aberdeen,AB15 4EL,Hazlehead/Queens Cross/Countesswells,2,2,1,725,68,Flat,CT Band E,EPC band B,Parking,-2.133515,57.146976
+43 Victoria Street,Aberdeen,AB10 1UX,Midstocket/Rosemount,1,1,1,550,43,Flat,CT Band C,EPC band C,Parking,-2.114412,57.1449676
+79 Bedford Road,Aberdeen,AB24 3LN,Tillydrone/Seaton/Old Aberdeen,4,1,1,960,100,House Semi Detached,CT Band E,EPC band E,Parking,-2.1086031,57.1627885
+39 Grandholm Crescent,Aberdeen,AB22 8AY,Dyce/Bucksburn/Danestone,4,2,2,1000,168,House Terraced,CT Band F,EPC band C,Parking,-2.122287,57.176904
+19 Cloverleaf Grange,Aberdeen,AB21 9FH,Dyce/Bucksburn/Danestone,2,1,1,575,54,Flat,CT Band C,EPC band B,Parking,-2.185757877,57.17803062
+20 Cloverleaf Grange,Aberdeen,AB21 9FH,Dyce/Bucksburn/Danestone,2,1,1,575,54,Flat,CT Band C,EPC band B,Parking,-2.1861012,57.1753322
+"Flat B,  11 King's Gate",Aberdeen,AB15 4EL,Hazlehead/Queens Cross/Countesswells,2,1,1,795,102,Flat,CT Band F,EPC band E,Parking,-2.1313675,57.1474834
+52 Merkland Lane,Aberdeen,AB24 5RN,George St/Harbour,2,2,1,675,62,Flat,CT Band D,EPC band C,Parking,-2.092558,57.158332
+13D Hollybank Place,Aberdeen,AB11 6XR,Torry/Ferryhill,1,1,1,450,38,Flat,CT Band A,EPC band C,,-2.112531669,57.13965741
+29c Walker Road,Aberdeen,AB11 8DP,Torry/Ferryhill,1,1,1,375,40,Flat,CT Band A,EPC band C,,-2.089034,57.136506
+17 Tailor Place,Aberdeen,AB24 4RU,Hilton/Woodside/Stockethill,2,2,1,875,88,Flat,CT Band D,EPC band C,Parking,-2.1266111,57.1651512
+321 Links Road,Aberdeen,AB24 5DJ,George St/Harbour,2,1,1,650,66,Flat,CT Band D,EPC band C,Parking,-2.0836792,57.153622
+17l Riverside Drive,Aberdeen,AB11 7DG,Torry/Ferryhill,2,2,1,625,66,Flat,CT Band D,EPC band C,Parking,-2.0969912,57.1342359
+7 Bank Street,Aberdeen,AB24 2RZ,Hilton/Woodside/Stockethill,2,1,1,650,78,House Detached,CT Band B,EPC band D,Parking,-2.1264148,57.1712564
+5 Linksfield Place,Aberdeen,AB24 5QQ,George St/Harbour,3,1,1,960,86,Flat,CT Band C,EPC band F,,-2.094549,57.161025
+"110H Earls Court,  Anderson Drive",Aberdeen,AB15 6BW,Hazlehead/Queens Cross/Countesswells,2,1,1,625,67,Flat,CT Band E,EPC band C,Parking,-2.141722649,57.14016076
+11 Summer Place,Aberdeen,AB21 7EJ,Dyce/Bucksburn/Danestone,1,1,1,570,56,Flat,CT Band A,EPC band D,Parking,-2.1904927,57.2039534
+"Flat 3,  28-32 Orchard Street",Aberdeen,AB24 3DD,Tillydrone/Seaton/Old Aberdeen,1,1,1,450,46,Flat,CT Band C,EPC band D,,-2.0996826,57.1608078
+"Flat D,  4 Cuparstone Court",Aberdeen,AB10 6FB,Hazlehead/Queens Cross/Countesswells,1,1,1,450,48,Flat,CT Band C,EPC band C,Parking,-2.114819,57.140347
+146 Oldcroft Place,Aberdeen,AB16 5UJ,Hilton/Woodside/Stockethill,2,1,1,495,67,Flat,CT Band B,EPC band C,Parking,-2.145787,57.158012
+37 Albury Mansions,Aberdeen,AB11 6TJ,Torry/Ferryhill,2,2,1,700,65,Flat,CT Band E,EPC band C,Parking,-2.1077958,57.1399582
+553 Great Western Road,Aberdeen,AB10 6PE,Airyhall/Broomhill/Garthdee,1,1,1,450,46,Flat,CT Band B,EPC band C,,-2.138248,57.131071
+"GFL,  48 Roslin Place",Aberdeen,AB24 5BL,George St/Harbour,2,1,1,600,55,Flat,CT Band C,EPC band C,Parking,-2.088189,57.1531772
+40 Anderson Avenue,Aberdeen,AB24 4LS,Hilton/Woodside/Stockethill,2,1,1,600,62,Flat,CT Band B,EPC band C,Parking,-2.1291298,57.1681909
+"Garden Flat Right,  28 Thomson Street",Aberdeen,AB25 2QQ,Midstocket/Rosemount,1,1,1,495,55,Flat,CT Band C,EPC band C,Parking,-2.1199057,57.1505039
+556b Holburn Street,Aberdeen,AB10 7LL,Airyhall/Broomhill/Garthdee,2,1,1,550,65,Flat,CT Band D,EPC band D,,-2.1184867,57.1282226
+31c Burnside Drive,Aberdeen,AB21 0HW,Dyce/Bucksburn/Danestone,2,2,1,700,76,Flat,CT Band D,EPC band B,Parking,-2.1733107,57.2001246
+81 Collieston Circle,Aberdeen,AB22 8UT,Bridge of Don,1,1,1,540,41,House Semi Detached,CT Band B,EPC band D,Parking,-2.110999617,57.19037711
+"Flat 1,  70 Langstane Place",Aberdeen,AB11 6EN,Torry/Ferryhill,1,1,1,425,42,Flat,CT Band B,EPC band E,,-2.108135,57.1430231
+42 Thomson Street,Aberdeen,AB25 2QP,Midstocket/Rosemount,2,1,1,400,43,Flat,CT Band C,EPC band E,,-2.1200174,57.1513969
+71 Strawberry Bank Parade,Aberdeen,AB11 6UT,Torry/Ferryhill,2,1,1,560,55,Flat,CT Band D,EPC band B,Parking,-2.1088242,57.1412958
+"Top Floor Right,  28 Thomson Street",Aberdeen,AB25 2QQ,Midstocket/Rosemount,2,1,1,595,54,Flat,CT Band D,EPC band D,Parking,-2.1199057,57.1505039
+206f Holburn Street,Aberdeen,AB10 6DA,Airyhall/Broomhill/Garthdee,1,1,1,450,32,Flat,CT Band A,EPC band D,,-2.114319,57.138821
+"Flat B,  55 Belmont Street",Aberdeen,AB10 1JS,George St/Harbour,3,1,1,1125,99,Flat,CT Band C,EPC band D,,-2.1021207,57.1474636
+41 Callum Crescent,Aberdeen,AB15 8XQ,Kingswells/Sheddocksley/Summerhill,3,1,2,750,86,House Semi Detached,CT Band E,EPC band C,Parking,-2.2268552,57.1601422
+29 Cordiner Place,Aberdeen,AB24 4SB,Hilton/Woodside/Stockethill,2,1,1,675,73,Flat,CT Band D,EPC band C,Parking,-2.1247911,57.1647234
+"TFR,  21 Hollybank Place",Aberdeen,AB11 6XR,Torry/Ferryhill,1,1,1,475,47,Flat,CT Band B,EPC band D,,-2.1119644,57.1395324
+25E Glenbervie Road,Aberdeen,AB11 9JE,Torry/Ferryhill,1,1,1,350,36,Flat,CT Band A,EPC band D,,-2.0853271,57.1358159
+142a Auchmill Road,Aberdeen,AB21 9LS,Dyce/Bucksburn/Danestone,2,1,1,450,67,House Terraced,CT Band C,EPC band D,,-2.1639085,57.1764066
+"Top Floor,  9B Queens Gardens",Aberdeen,AB15 4YD,Hazlehead/Queens Cross/Countesswells,3,1,1,995,113,Flat,CT Band E,EPC band C,Parking,-2.1287387,57.1428754
+65 Rubislaw Square,Aberdeen,AB15 4DG,Hazlehead/Queens Cross/Countesswells,2,1,1,800,84,Flat,CT Band E,EPC band C,Parking,-2.1438149,57.1389191
+8 Rubislaw View,Aberdeen,AB15 4DD,Hazlehead/Queens Cross/Countesswells,4,2,1,1500,152,House Semi Detached,CT Band G,EPC band C,Parking,-2.1422144,57.1386645
+13 Jackson Terrace,Aberdeen,AB24 5LP,George St/Harbour,2,1,1,400,43,Flat,CT Band B,EPC band E,,-2.092079583,57.15515066
+3 Ardarroch Close,Aberdeen,AB24 5QG,George St/Harbour,2,1,1,525,65,Flat,CT Band C,EPC band C,Parking,-2.091734,57.159231
+47 Woodend Place,Aberdeen,AB15 6AP,Hazlehead/Queens Cross/Countesswells,4,2,2,1150,117,House Detached,CT Band G,EPC band D,Parking,-2.1658094,57.1444889
+"Flat 9,  211 Union Street",Aberdeen,AB11 6BA,Torry/Ferryhill,1,1,1,395,35,Flat,CT Band A,EPC band F,,-2.1042242,57.1448749
+18 Howburn Place,Aberdeen,AB11 6XX,Torry/Ferryhill,1,1,1,400,38,Flat,CT Band B,EPC band D,,-2.1124777,57.1389598
+130 Stanley Street,Aberdeen,AB10 6UQ,Hazlehead/Queens Cross/Countesswells,2,1,1,650,75,Flat,CT Band E,EPC band C,Parking,-2.124077,57.141776
+24 Bannermill Place,Aberdeen,AB24 5EA,George St/Harbour,2,2,1,700,68,Flat,CT Band D,EPC band C,Parking,-2.085931,57.152048
+377 North Deeside Road,Aberdeen,AB15 9SX,Lower Deeside,2,1,1,750,88,Flat,CT Band D,EPC band D,Parking,-2.177167,57.117278
+4b Queens Gardens,Aberdeen,AB15 4YD,Hazlehead/Queens Cross/Countesswells,3,2,2,1100,127,Flat,CT Band F,EPC band C,,-2.1279865,57.1431378
+Crown Street,Aberdeen,AB11 6AY,Torry/Ferryhill,3,2,2,1800,99,Flat,CT Band F,EPC band C,Parking,-2.1034621,57.1442108
+51 Menzies Road,Aberdeen,AB11 9AS,Torry/Ferryhill,1,1,1,375,44,Flat,CT Band A,EPC band D,,-2.0911476,57.1367621
+30 Pitmedden Mews,Aberdeen,AB21 7ER,Dyce/Bucksburn/Danestone,2,1,1,625,65,Flat,CT Band C,EPC band C,Parking,-2.1898839,57.2110688
+7 Prospect Terrace,Aberdeen,AB11 7TB,Torry/Ferryhill,1,1,1,495,45,Flat,CT Band A,EPC band D,,-2.098618,57.137217
+125 George Street,Aberdeen,AB25 1HU,George St/Harbour,1,1,1,450,49,Flat,CT Band B,EPC band C,,-2.101461,57.149791
+"Flat 1,  44-46 Upperkirkgate",Aberdeen,AB10 1BA,George St/Harbour,1,1,1,425,37,Flat,CT Band B,EPC band C,,-2.09895934,57.14879926
+7 Raeden Avenue,Aberdeen,AB15 5LP,Midstocket/Rosemount,4,3,2,1600,153,House Detached,CT Band G,EPC band D,Parking,-2.13658,57.15018755
+72 Great Northern Road,Aberdeen,AB24 3PT,Hilton/Woodside/Stockethill,1,1,1,395,43,Flat,CT Band A,EPC band D,,-2.1154351,57.164082
+"3 Whitehall Mews,  Whitehall Place",Aberdeen,AB25 2YY,Midstocket/Rosemount,2,1,1,550,54,Flat,CT Band D,EPC band C,Parking,-2.1176486,57.1467821
+50 Queens Crescent,Aberdeen,AB15 4BE,Hazlehead/Queens Cross/Countesswells,2,2,1,795,67,Flat,CT Band E,EPC band C,Parking,-2.145378161,57.13889276
+59 Mary Elmslie Court,Aberdeen,AB24 5BS,George St/Harbour,2,2,1,650,74,Flat,CT Band D,EPC band B,Parking,-2.0924196,57.1558974
+33 Mearns Street,Aberdeen,AB11 5ER,George St/Harbour,2,1,1,600,73,Flat,CT Band C,EPC band B,Parking,-2.089389,57.146836
+"First Floor,  9B Queens Gardens",Aberdeen,AB15 4YD,Hazlehead/Queens Cross/Countesswells,3,1,1,995,99,Flat,CT Band E,EPC band C,Parking,-2.1287387,57.1428754
+74 Lord Hays Grove,Aberdeen,AB24 1WT,Tillydrone/Seaton/Old Aberdeen,2,1,1,575,61,Flat,CT Band D,EPC band C,Parking,-2.0945558,57.1727476
+43B Sunnybank Road,Aberdeen,AB24 3NJ,George St/Harbour,2,1,1,525,54,Flat,CT Band C,EPC band D,Parking,-2.1019522,57.1599683
+17 Beattie Place,Aberdeen,AB25 3AS,Midstocket/Rosemount,2,1,1,495,70,Flat,CT Band B,EPC band C,,-2.1237377,57.1588707
+"First Floor,  31 Elmfield Avenue",Aberdeen,AB24 3NU,George St/Harbour,3,1,1,825,80,Flat,CT Band D,EPC band E,,-2.1088073,57.1596258
+19F Craigton Road,Aberdeen,AB15 7US,Airyhall/Broomhill/Garthdee,2,1,1,550,61,Flat,CT Band D,EPC band C,Parking,-2.1392892,57.1312765
+83f Jute Street,Aberdeen,AB24 3HA,George St/Harbour,2,1,1,495,49,Flat,CT Band B,EPC band E,,-2.1036529,57.1573886
+"44d,  Walker Road",Aberdeen,AB11 8BL,Torry/Ferryhill,1,1,1,370,58,Flat,CT Band A,EPC band D,,-2.0894484,57.1365786
+26 Albyn Grove,Aberdeen,AB10 6SQ,Hazlehead/Queens Cross/Countesswells,1,1,1,525,50,Flat,CT Band C,EPC band D,,-2.1196563,57.1410523
+82 Osborne Place,Aberdeen,AB25 2DB,Hazlehead/Queens Cross/Countesswells,4,2,1,900,111,Flat,CT Band E,EPC band C,,-2.1223143,57.1455032
+22 Links View,Aberdeen,AB24 5RG,Tillydrone/Seaton/Old Aberdeen,2,1,1,650,74,Flat,CT Band D,EPC band C,Parking,-2.09042417,57.16209473
+"Flat 5,  89 Queens Road",Aberdeen,AB15 4YS,Hazlehead/Queens Cross/Countesswells,2,1,1,690,53,Flat,CT Band D,EPC band D,Parking,-2.139886154,57.14005132
+301 Union Grove,Aberdeen,AB10 6TD,Hazlehead/Queens Cross/Countesswells,1,1,1,425,36,Flat,CT Band B,EPC band E,,-2.123461175,57.13996682
+"Flat 6,  89 Queens Road",Aberdeen,AB15 4YS,Hazlehead/Queens Cross/Countesswells,1,1,1,625,55,Flat,CT Band D,EPC band D,Parking,-2.139768,57.140053
+2E Richmond Walk,Aberdeen,AB25 2YT,Midstocket/Rosemount,2,1,2,600,79,Flat,CT Band B,EPC band C,Parking,-2.114021,57.149331
+4C Hosefield Road,Aberdeen,AB15 5NB,Midstocket/Rosemount,1,1,1,550,52,Flat,CT Band B,EPC band C,,-2.127498351,57.15029666
+180 Merkland Lane,Aberdeen,AB24 5RX,George St/Harbour,2,2,1,700,62,Flat,CT Band D,EPC band C,Parking,-2.0896931,57.1582853
+"Flat B,  104 King Street",Aberdeen,AB24 5BB,George St/Harbour,1,1,1,475,67,Flat,CT Band B,EPC band D,,-2.093482384,57.1505164
+177a Hardgate,Aberdeen,AB11 6YB,Torry/Ferryhill,1,1,1,425,28,Flat,CT Band A,EPC band D,,-2.112439523,57.1379603
+10 Bonnymuir Place,Aberdeen,AB15 5NL,Midstocket/Rosemount,2,1,2,650,78,Flat,CT Band E,EPC band D,Parking,-2.1295596,57.1500725
+"Top Floor Left,  246 King Street",Aberdeen,AB24 5BW,George St/Harbour,2,1,1,395,44,Flat,CT Band A,EPC band F,,-2.0943829,57.153038
+268 Union Grove,Aberdeen,AB10 6TR,Hazlehead/Queens Cross/Countesswells,1,1,1,450,51,Flat,CT Band B,EPC band D,,-2.1269179,57.1392469
+11 Elmbank Road,Aberdeen,AB24 3PH,George St/Harbour,1,1,1,475,44,Flat,CT Band A,EPC band C,,-2.1069156,57.158494
+50 Bedford Road,Aberdeen,AB24 3LL,Tillydrone/Seaton/Old Aberdeen,1,1,1,375,42,Flat,CT Band A,EPC band D,,-2.1097463,57.1614898
+2E Dunbar Street,Aberdeen,AB24 3UD,Tillydrone/Seaton/Old Aberdeen,1,1,1,450,53,Flat,CT Band B,EPC band D,,-2.1013278,57.166038
+92 Great Northern Road,Aberdeen,AB24 3QB,Hilton/Woodside/Stockethill,1,1,1,375,38,Flat,CT Band A,EPC band D,,-2.1154576,57.1647208
+7 Fraser Street,Aberdeen,AB25 3XT,George St/Harbour,2,1,1,425,47,Flat,CT Band A,EPC band E,,-2.1086177,57.1556882
+260 Union Grove,Aberdeen,AB10 6TR,Hazlehead/Queens Cross/Countesswells,1,1,1,475,43,Flat,CT Band A,EPC band D,,-2.1262285,57.1393908
+"Flat C,  380 King Street",Aberdeen,AB24 3BQ,George St/Harbour,3,1,1,960,59,Flat,CT Band B,EPC band C,,-2.0953411,57.1571808
+3 Cairn Crescent,Aberdeen,AB15 9TW,Lower Deeside,3,1,2,1300,134,House Detached,CT Band F,EPC band C,Parking,-2.1941172,57.1156448
+26 Chattan Place,Aberdeen,AB10 6RD,Hazlehead/Queens Cross/Countesswells,1,1,1,395,36,Flat,CT Band A,EPC band D,,-2.1208248,57.1382914
+6c Wallfield Place,Aberdeen,AB25 2JN,Midstocket/Rosemount,3,1,1,900,77,Flat,CT Band C,EPC band C,Parking,-2.1198654,57.1491547
+47J Kings Gate,Aberdeen,AB15 4EL,Hazlehead/Queens Cross/Countesswells,2,2,1,775,83,Flat,CT Band E,EPC band C,Parking,-2.134638,57.146867
+37S Kings Gate,Aberdeen,AB15 4EL,Hazlehead/Queens Cross/Countesswells,2,2,1,700,92,Flat,CT Band E,EPC band C,Parking,-2.133549,57.147246
+130 Charles Street,Aberdeen,AB25 3TZ,George St/Harbour,2,1,1,625,56,Flat,CT Band D,EPC band C,Parking,-2.104960062,57.15530261
+1 Glendale Mews,Aberdeen,AB11 6FN,Torry/Ferryhill,2,1,1,550,57,Flat,CT Band D,EPC band D,Parking,-2.112013,57.1409308
+10 Esslemont Avenue,Aberdeen,AB25 1SL,Midstocket/Rosemount,1,1,1,450,52,Flat,CT Band B,EPC band C,,-2.113550869,57.14730718
+32 Hilton Avenue,Aberdeen,AB24 4RE,Hilton/Woodside/Stockethill,3,2,1,900,96,Flat,CT Band F,EPC band B,Parking,-2.126037004,57.16582062
+125 Portland Street,Aberdeen,AB11 6LN,Torry/Ferryhill,2,1,1,725,78,Flat,CT Band D,EPC band C,Parking,-2.0995485,57.1404142
+80 Hutcheon Low Place,Aberdeen,AB21 9WL,Dyce/Bucksburn/Danestone,1,1,1,450,36,Flat,CT Band B,EPC band C,Parking,-2.1455178,57.1758259
+187 Broomhill Road,Aberdeen,AB10 6JQ,Airyhall/Broomhill/Garthdee,3,2,2,1750,117,House Semi Detached,CT Band F,EPC band D,Parking,-2.125420493,57.12964088
+15E Powis Place,Aberdeen,AB25 3TR,George St/Harbour,2,1,1,425,41,Flat,CT Band A,EPC band E,,-2.103957,57.155808
+61 Fonthill Road,Aberdeen,AB11 6UQ,Torry/Ferryhill,1,1,1,375,44,Flat,CT Band B,EPC band D,,-2.108299877,57.1369239
+"Flat F,  139 Union Grove",Aberdeen,AB10 6SN,Hazlehead/Queens Cross/Countesswells,2,1,1,600,67,Flat,CT Band E,EPC band B,,-2.119014,57.1408431
+85 Claremont Street,Aberdeen,AB10 6QR,Hazlehead/Queens Cross/Countesswells,1,1,1,450,40,Flat,CT Band A,EPC band C,,-2.120603077,57.13869751
+107 Cordiner Avenue,Aberdeen,AB24 4SA,Hilton/Woodside/Stockethill,2,2,1,800,87,Flat,CT Band D,EPC band C,Parking,-2.1271753,57.164513
+41 Garthdee Drive,Aberdeen,AB10 7HS,Airyhall/Broomhill/Garthdee,3,1,1,1000,90,House Semi Detached,CT Band C,EPC band C,Parking,-2.1308549,57.1237921
+"Flat C,  22 Willowbank Road",Aberdeen,AB11 6YH,Torry/Ferryhill,3,1,1,780,51,Flat,CT Band B,EPC band D,,-2.1047365,57.1407042
+"Townhouse,  Stoneywood Brae",Aberdeen,AB21 9DW,Dyce/Bucksburn/Danestone,3,2,1,1405,155,House Terraced,CT Band F,EPC band B,Parking,-2.1771749,57.1846138
+"2 Bed Concept,  Stoneywood Brae",Aberdeen,AB21 9FA,Dyce/Bucksburn/Danestone,2,2,1,767,200,Flat,CT Band D,EPC band B,Parking,-2.1760663,57.1839349
+"1 Bed,  Stoneywood Brae",Aberdeen,AB21 9FA,Dyce/Bucksburn/Danestone,1,1,1,705,150,Flat,CT Band B,EPC band B,Parking,-2.1761333,57.184244
+"2 Bed Traditional,  Stoneywood Brae",Aberdeen,AB21 9FA,Dyce/Bucksburn/Danestone,2,2,1,751,200,Flat,CT Band D,EPC band B,Parking,-2.1760663,57.1839349
+"Studio Flat,  Stoneywood Brae",Aberdeen,AB21 9FA,Dyce/Bucksburn/Danestone,1,1,1,554,91,Flat,CT Band A,EPC band B,Parking,-2.1761333,57.184244
+12 Sunnybank Place,Aberdeen,AB24 3LA,George St/Harbour,2,1,1,495,38,Flat,CT Band A,EPC band D,,-2.106235377,57.1589939
+8 Merkland Road East,Aberdeen,AB24 5PR,George St/Harbour,2,1,1,600,83,Flat,CT Band C,EPC band D,,-2.0949654,57.1585709
+36 Merkland Road East,Aberdeen,AB24 5PT,George St/Harbour,2,1,1,550,47,Flat,CT Band A,EPC band D,Parking,-2.0927116,57.1588294
+37 Carmelite Street,Aberdeen,AB11 6NQ,George St/Harbour,3,1,2,900,75,Flat,CT Band D,EPC band C,,-2.0985157,57.1458691
+457 North Anderson Drive,Aberdeen,AB16 7GB,Northfield/Mastrick North,2,1,1,500,84,Flat,CT Band B,EPC band D,Parking,-2.140625116,57.16843065
+"78F McDonald Court,  Jute Street",Aberdeen,AB24 3HB,George St/Harbour,2,1,1,500,56,Flat,CT Band B,EPC band E,Parking,-2.10321163,57.15733667
+20 Tailor Place,Aberdeen,AB24 4RU,Hilton/Woodside/Stockethill,2,2,1,800,83,Flat,CT Band D,EPC band C,Parking,-2.1266111,57.1651512
+11 Frater Place,Aberdeen,AB24 5DF,George St/Harbour,4,2,1,1600,138,House Terraced,CT Band F,EPC band C,Parking,-2.0865571,57.1535874
+12 Pitstruan Place,Aberdeen,AB10 6PR,Airyhall/Broomhill/Garthdee,1,1,1,375,40,Flat,CT Band B,EPC band F,Parking,-2.1207691,57.1349017
+"57 Dee Village,  Millburn Street",Aberdeen,AB11 6SZ,Torry/Ferryhill,2,1,1,695,56,Flat,CT Band D,EPC band C,Parking,-2.099662,57.1388306
+260 Union Grove,Aberdeen,AB10 6TR,Hazlehead/Queens Cross/Countesswells,2,1,1,550,47,Flat,CT Band C,EPC band G,,-2.1262266,57.13938229
+56e Charlotte Street,Aberdeen,AB25 1LT,George St/Harbour,2,1,1,625,50,Flat,CT Band D,EPC band C,Parking,-2.104518599,57.1513723
+247 Mid Stocket Road,Aberdeen,AB15 5PH,Midstocket/Rosemount,3,2,1,900,115,House Semi Detached,CT Band F,EPC band E,Parking,-2.1449695,57.1498497
+19a Polmuir Road,Aberdeen,AB11 7RS,Torry/Ferryhill,2,2,1,775,78,Flat,CT Band E,EPC band C,Parking,-2.1033046,57.1351201
+90F Huntly Street,Aberdeen,AB10 1TD,Midstocket/Rosemount,1,1,1,475,40,Flat,CT Band A,EPC band F,,-2.1101835,57.1460853
+54 Bedford Road,Aberdeen,AB24 3LL,Tillydrone/Seaton/Old Aberdeen,1,1,1,375,43,Flat,CT Band A,EPC band D,Parking,-2.1095753,57.1616674
+"Flat B,  25 Union Street",Aberdeen,AB11 5BP,George St/Harbour,1,1,1,550,41,Flat,CT Band A,EPC band D,,-2.0951975,57.1474185
+100 Bothwell Road,Aberdeen,AB24 5DE,George St/Harbour,2,2,1,750,82,Flat,CT Band D,EPC band C,Parking,-2.085089203,57.15415222
+"Flat E,  108 King Street",Aberdeen,AB24 5BB,George St/Harbour,2,1,1,550,82,Flat,CT Band C,EPC band C,,-2.09349542,57.15050075
+"Second Floor Right,  47 Urquhart Road",Aberdeen,AB24 5LR,George St/Harbour,1,1,1,450,52,Flat,CT Band B,EPC band D,,-2.091340269,57.15480698
+"Top Floor Right,  246 King Street",Aberdeen,AB24 5BW,George St/Harbour,2,1,1,595,59,Flat,CT Band B,EPC band C,,-2.0943829,57.153038
+609 King Street,Aberdeen,AB24 1SA,Tillydrone/Seaton/Old Aberdeen,3,1,1,900,86,Flat,CT Band D,EPC band D,,-2.09712744,57.16727117
+62 Bloomfield Court,Aberdeen,AB10 6DS,Torry/Ferryhill,2,1,1,600,50,Flat,CT Band D,EPC band C,Parking,-2.1127415,57.1355209
+"59 Picardy Court,  Rose Street",Aberdeen,AB10 1UG,Midstocket/Rosemount,2,1,1,575,46,Flat,CT Band D,EPC band D,Parking,-2.1125784,57.1446246
+15 Hollybank Place,Aberdeen,AB11 6XR,Torry/Ferryhill,1,1,1,450,40,Flat,CT Band A,EPC band D,,-2.112569,57.1395924
+1e Summer Street,Aberdeen,AB24 4EY,Hilton/Woodside/Stockethill,5,2,1,1500,101,Flat,CT Band E,EPC band B,Parking,-2.1249352,57.1687273
+"37 The Bastille,  75 Maberly Street",Aberdeen,AB25 1NL,George St/Harbour,2,2,1,800,100,Flat,CT Band E,EPC band D,Parking,-2.1075009,57.1516294
+5 Woodlands Terrace,Aberdeen,AB15 9DG,Lower Deeside,4,2,1,1500,148,House Terraced,CT Band G,EPC band C,Parking,-2.1677091,57.1243697
+"Argent Court,  37 Old Mill Road",Aberdeen,AB11 6EG,Torry/Ferryhill,2,2,1,900,59,Flat,CT Band D,EPC band B,Parking,-2.103423,57.141974
+"Flat F,  48 Market Street",Aberdeen,AB11 5QE,George St/Harbour,3,1,0,700,93,Flat,CT Band B,EPC band D,,-2.0961369,57.1456548
+72 Bloomfield Court,Aberdeen,AB10 6DS,Torry/Ferryhill,2,1,1,600,53,Flat,CT Band D,EPC band C,Parking,-2.112988,57.1354545
+90 Merkland Road East,Aberdeen,AB24 5PZ,George St/Harbour,2,1,1,600,60,Flat,CT Band D,EPC band C,Parking,-2.0913355,57.1586919
+"37 Strachan Mill Court,  Leadside Road",Aberdeen,AB25 1TX,Midstocket/Rosemount,2,1,1,570,56,Flat,CT Band C,EPC band C,Parking,-2.1115629,57.1483875
+274 Hardgate,Aberdeen,AB10 6AA,Torry/Ferryhill,1,1,1,425,45,Flat,CT Band A,EPC band E,Parking,-2.114178,57.135874
+96B Bedford Place,Aberdeen,AB24 3NX,Tillydrone/Seaton/Old Aberdeen,1,1,1,450,43,Flat,CT Band B,EPC band C,,-2.1098219,57.1613658
+140 Shaw Crescent,Aberdeen,AB25 3BU,Midstocket/Rosemount,3,3,1,950,112,Flat,CT Band E,EPC band C,Parking,-2.1235365,57.1574834
+607 George Street,Aberdeen,AB25 3YH,George St/Harbour,1,1,1,375,50,Flat,CT Band A,EPC band D,,-2.1089023,57.1564582
+"18 Urquhart Court,  105 Urquhart Road",Aberdeen,AB24 5JP,George St/Harbour,2,1,1,700,54,Flat,CT Band D,EPC band B,Parking,-2.0882909,57.1551149
+46 Fonthill Terrace,Aberdeen,AB11 7UR,Torry/Ferryhill,2,1,1,600,71,Flat,CT Band C,EPC band C,Parking,-2.1099228,57.1366953
+"100 Dee Village,  Millburn Street",Aberdeen,AB11 6SZ,Torry/Ferryhill,2,2,1,795,65,Flat,CT Band D,EPC band C,Parking,-2.0993279,57.139226
+"Flat 22, Millbank View,  Grandholm Crescent",Aberdeen,AB22 8BE,Dyce/Bucksburn/Danestone,2,2,1,675,65,Flat,CT Band D,EPC band B,Parking,-2.1232186,57.1771566
+490A King Street,Aberdeen,AB24 5ST,Tillydrone/Seaton/Old Aberdeen,3,1,0,675,97,Flat,CT Band C,EPC band F,,-2.0965835,57.1622188
+129 Hilton Avenue,Aberdeen,AB24 4LL,Hilton/Woodside/Stockethill,4,1,2,1100,115,House Semi Detached,CT Band E,EPC band F,Parking,-2.130426,57.1648758
+46 Mid Stocket Road,Aberdeen,AB15 5JD,Midstocket/Rosemount,2,1,1,470,47,Flat,CT Band B,EPC band E,,-2.1266663,57.1497858
+125 Crown Street,Aberdeen,AB11 6HP,Torry/Ferryhill,2,1,1,550,68,Flat,CT Band C,EPC band D,Parking,-2.100944,57.141797
+8 Ferryhill Terrace,Aberdeen,AB11 6SQ,Torry/Ferryhill,1,1,1,495,43,Flat,CT Band A,EPC band D,,-2.1018041,57.1393494
+6 Affleck Street,Aberdeen,AB11 6JH,Torry/Ferryhill,2,2,1,750,70,Flat,CT Band D,EPC band C,Parking,-2.099621,57.141528
+"167 Lewis House,  Oakhill Grange",Aberdeen,AB15 5EA,Midstocket/Rosemount,2,2,1,1200,86,Flat,CT Band F,EPC band B,Parking,-2.141438149,57.1491026
+20G James Street,Aberdeen,AB11 5AP,George St/Harbour,2,1,1,590,56,Flat,CT Band B,EPC band B,Parking,-2.0903154,57.1471315
+553 Great Western Road,Aberdeen,AB10 6PE,Airyhall/Broomhill/Garthdee,1,1,1,400,35,Flat,CT Band A,EPC band C,,-2.138248,57.131071
+"Flat B,  64 Ashvale Place",Aberdeen,AB10 6QB,Hazlehead/Queens Cross/Countesswells,1,1,1,350,39,Flat,CT Band A,EPC band F,,-2.117851,57.140546
+106a Constitution Street,Aberdeen,AB24 5DZ,George St/Harbour,2,1,1,625,62,Flat,CT Band D,EPC band D,Parking,-2.0850397,57.1526687
+42 Claremont Gardens,Aberdeen,AB10 6RG,Hazlehead/Queens Cross/Countesswells,1,1,1,525,55,Flat,CT Band C,EPC band D,Parking,-2.118944,57.138547
+28 Pitmedden Mews,Aberdeen,AB21 7ER,Dyce/Bucksburn/Danestone,2,1,1,625,64,Flat,CT Band C,EPC band C,Parking,-2.1898839,57.2110688
+30 Morningfield Mews,Aberdeen,AB15 4ER,Hazlehead/Queens Cross/Countesswells,2,2,1,775,74,Flat,CT Band E,EPC band C,Parking,-2.1384198,57.1461623
+12 Murray Terrace,Aberdeen,AB11 7SD,Torry/Ferryhill,2,1,1,700,74,Flat,CT Band D,EPC band C,Parking,-2.1042245,57.1332689
+262 Union Grove,Aberdeen,AB10 6TR,Hazlehead/Queens Cross/Countesswells,1,1,1,425,47,Flat,CT Band B,EPC band D,,-2.1263999,57.1393438
+15 Carmelite Street,Aberdeen,AB11 6NQ,George St/Harbour,2,1,1,550,64,Flat,CT Band D,EPC band C,Parking,-2.0982611,57.145841
+8 Gairn Terrace,Aberdeen,AB10 6BB,Torry/Ferryhill,1,1,1,500,53,Flat,CT Band C,EPC band C,Parking,-2.1094347,57.1335159
+33 Menzies Road,Aberdeen,AB11 9AU,Torry/Ferryhill,1,1,1,395,37,Flat,CT Band A,EPC band D,,-2.0898621,57.1374212
+Hillside Of Borrowstone,Aberdeen,AB15 8RQ,Dyce/Bucksburn/Danestone,3,2,1,900,116,House Detached,CT Band F,EPC band C,Parking,-2.255442,57.1656962
+3 Cypress Walk,Aberdeen,AB23 8LD,Bridge of Don,4,2,2,950,123,House Semi Detached,CT Band F,EPC band C,Parking,-2.100813,57.2000216
+51 Elmbank Terrace,Aberdeen,AB24 3NN,George St/Harbour,2,1,1,600,121,Flat,CT Band D,EPC band D,,-2.1111709,57.1590867
+5c Irvine Place,Aberdeen,AB10 6HA,Airyhall/Broomhill/Garthdee,2,1,1,650,67,Flat,CT Band C,EPC band D,,-2.118113,57.136841
+"20 Ladeside,  Grandholm Crescent",Aberdeen,AB22 8BF,Dyce/Bucksburn/Danestone,2,2,1,595,64,Flat,CT Band D,EPC band B,Parking,-2.1230945,57.1771554
+64L Goodhope Park,Aberdeen,AB21 9NE,Dyce/Bucksburn/Danestone,2,1,1,625,48,Flat,CT Band D,EPC band B,Parking,-2.1602032,57.1774538
+"Flat 41, Beeches Gate,  Craigieburn Park",Aberdeen,AB15 7SQ,Hazlehead/Queens Cross/Countesswells,1,1,1,550,61,Flat,CT Band D,EPC band B,Parking,-2.1528469,57.1352668
+279 Union Grove,Aberdeen,AB10 6TB,Hazlehead/Queens Cross/Countesswells,2,1,1,475,50,Flat,CT Band B,EPC band D,,-2.1272941,57.1388439
+77 Promenade Court,Aberdeen,AB24 1FR,Tillydrone/Seaton/Old Aberdeen,2,1,1,525,61,Flat,CT Band A,EPC band E,Parking,-2.0891018,57.1647031
+552 Great Western Road,Aberdeen,AB10 6PU,Airyhall/Broomhill/Garthdee,3,1,1,500,75,Flat,CT Band D,EPC band C,,-2.1388191,57.1308936
+39 Victoria Street,Aberdeen,AB10 1UX,Midstocket/Rosemount,1,1,1,600,52,Flat,CT Band C,EPC band C,,-2.1143234,57.1447466
+19 Picardy Court,Aberdeen,AB10 1UG,Midstocket/Rosemount,1,1,1,475,40,Flat,CT Band C,EPC band C,Parking,-2.112437,57.1446582
+20 Beechgrove Terrace,Aberdeen,AB15 5ED,Midstocket/Rosemount,4,1,2,1200,90,Flat,CT Band E,EPC band E,,-2.1252995,57.1490763
+8f Belgrave Terrace,Aberdeen,AB25 2NS,Midstocket/Rosemount,2,1,1,1000,65,Flat,CT Band E,EPC band C,Parking,-2.1181997,57.1485366
+39 Bankhead Avenue,Aberdeen,AB21 9ET,Dyce/Bucksburn/Danestone,3,1,1,600,74,Flat,CT Band B,EPC band D,,-2.1814817,57.1816216
+"Mary Elmslie Court,  73 King Street",Aberdeen,AB24 5BS,George St/Harbour,2,1,1,650,63,Flat,CT Band D,EPC band C,Parking,-2.0924196,57.1558974
+48A Victoria Road,Aberdeen,AB11 9DR,Torry/Ferryhill,1,1,1,375,35,Flat,CT Band A,EPC band D,,-2.0889157,57.1384353
+164b Market Street,Aberdeen,AB11 5PP,Torry/Ferryhill,1,1,1,500,54,Flat,CT Band A,EPC band E,,-2.0930323,57.1429626
+23A Forbes Street,Aberdeen,AB25 2UG,Midstocket/Rosemount,1,1,1,350,37,Flat,CT Band A,EPC band E,,-2.1118376,57.1515306
+"Flat F,  54 Erroll Street",Aberdeen,AB24 5PP,George St/Harbour,3,1,1,950,73,Flat,CT Band D,EPC band C,Parking,-2.0921606,57.1569456
+"43d McDonald Court,  Froghall Road",Aberdeen,AB24 3JL,George St/Harbour,1,1,1,495,49,Flat,CT Band B,EPC band D,Parking,-2.1011522,57.1576064
+"Pinecrest,  Backhill Farm",Aberdeen,AB15 8SN,Lower Deeside,3,2,1,700,93,House Detached,CT Band E,EPC band D,Parking,-2.256725597,57.14765556
+17 Hartington Road,Aberdeen,AB10 6XT,Hazlehead/Queens Cross/Countesswells,1,1,1,430,44,Flat,CT Band B,EPC band D,,-2.1226341,57.1409363
+186e Victoria Road,Aberdeen,AB11 9NN,Torry/Ferryhill,2,1,1,415,47,Flat,CT Band A,EPC band C,,-2.0823056,57.1365689
+2 Hammerman Drive,Aberdeen,AB24 4SH,Hilton/Woodside/Stockethill,3,2,1,895,94,Flat,CT Band E,EPC band B,Parking,-2.1260091,57.162956
+5 Willowgate Close,Aberdeen,AB11 6QD,Torry/Ferryhill,2,1,1,595,60,Flat,CT Band D,EPC band C,Parking,-2.11014645,57.14050562
+9 Granton Place,Aberdeen,AB10 6QX,Hazlehead/Queens Cross/Countesswells,1,1,1,395,41,Flat,CT Band A,EPC band E,,-2.1194274,57.1399588
+23C Urquhart Road,Aberdeen,AB24 5LN,George St/Harbour,1,1,0,350,37,Flat,CT Band A,EPC band E,,-2.0935907,57.1546001
+49H Sunnybank Road,Aberdeen,AB24 3NJ,George St/Harbour,2,1,1,550,53,Flat,CT Band C,EPC band B,Parking,-2.102479,57.159222
+4A Great Western Road,Aberdeen,AB10 6PY,Hazlehead/Queens Cross/Countesswells,2,1,1,525,33,Flat,CT Band C,EPC band E,Parking,-2.115315,57.140257
+37 Urquhart Road,Aberdeen,AB24 5LS,George St/Harbour,3,1,1,700,71,Flat,CT Band C,EPC band D,,-2.092053,57.154739
+83 Spring Garden,Aberdeen,AB25 1DG,George St/Harbour,1,1,1,450,38,Flat,CT Band B,EPC band E,Parking,-2.1003962,57.1529029
+51 Devonshire Road,Aberdeen,AB10 6XP,Hazlehead/Queens Cross/Countesswells,2,1,1,895,101,Flat,CT Band E,EPC band D,Parking,-2.1281278,57.1397553
+37 Huxterstone Drive,Aberdeen,AB15 8UN,Kingswells/Sheddocksley/Summerhill,3,1,1,800,79,House Detached,CT Band E,EPC band D,Parking,-2.2225511,57.1518966
+53 Craigiebuckler Terrace,Aberdeen,AB15 8SX,Hazlehead/Queens Cross/Countesswells,3,1,2,850,100,House Semi Detached,CT Band F,EPC band D,Parking,-2.1582219,57.1361323
+"Flat D,  2 Cottage Brae",Aberdeen,AB10 6DG,Airyhall/Broomhill/Garthdee,1,1,1,375,28,Flat,CT Band A,EPC band E,Parking,-2.117125,57.13801
+184 Victoria Road,Aberdeen,AB11 9NN,Torry/Ferryhill,2,1,1,450,46,Flat,CT Band A,EPC band C,,-2.0824737,57.136565
+"Flat B,  126 Auchmill Road",Aberdeen,AB21 9LS,Dyce/Bucksburn/Danestone,1,1,0,325,28,Flat,CT Band A,EPC band E,,-2.1640093,57.1766085
+"Riverside View,  22E Riverside Drive",Aberdeen,AB11 7DF,Torry/Ferryhill,2,2,1,800,63,Flat,CT Band E,EPC band C,Parking,-2.0971334,57.1332838
+165 Hardgate,Aberdeen,AB11 6XQ,Torry/Ferryhill,1,1,1,400,35,Flat,CT Band A,EPC band E,,-2.1121307,57.1384385
+"Flat A,  10 Bloomfield Road",Aberdeen,AB10 6AB,Torry/Ferryhill,1,1,1,425,46,Flat,CT Band A,EPC band D,Parking,-2.1143827,57.134814
+7 Hilton Heights,Aberdeen,AB24 4QE,Hilton/Woodside/Stockethill,2,1,1,575,56,Flat,CT Band D,EPC band D,Parking,-2.1302103,57.1652111
+546 Great Western Road,Aberdeen,AB10 6PU,Airyhall/Broomhill/Garthdee,2,1,1,450,49,Flat,CT Band B,EPC band E,,-2.140393,57.13044
+7 Bannermill Place,Aberdeen,AB24 5EA,George St/Harbour,1,1,1,575,48,Flat,CT Band C,EPC band B,Parking,-2.085435,57.152228
+11 Great Western Place,Aberdeen,AB10 6QN,Hazlehead/Queens Cross/Countesswells,1,1,1,495,52,Flat,CT Band C,EPC band C,,-2.11729397,57.14002404
+"Flat A,  51 Ashvale Place",Aberdeen,AB10 6QJ,Hazlehead/Queens Cross/Countesswells,1,1,1,475,37,Flat,CT Band A,EPC band D,,-2.11699901,57.14050249
+"Flat F, Melville Court,  75 Rose Street",Aberdeen,AB10 1UH,Midstocket/Rosemount,2,1,1,595,54,Flat,CT Band D,EPC band D,,-2.1129321,57.1463317
+211 Links Road,Aberdeen,AB24 5EY,George St/Harbour,2,2,1,650,69,Flat,CT Band C,EPC band B,Parking,-2.0837796,57.1524786
+4 Sclattie Park,Aberdeen,AB21 9QR,Dyce/Bucksburn/Danestone,2,1,1,550,105,Flat,CT Band C,EPC band D,Parking,-2.1871053,57.1800774
+5 Gairn Terrace,Aberdeen,AB10 6BB,Torry/Ferryhill,1,1,1,500,52,Flat,CT Band C,EPC band C,Parking,-2.109687307,57.13334782
+"Flat D,  19 Sunnybank Road",Aberdeen,AB24 3NJ,George St/Harbour,1,1,1,475,48,Flat,CT Band B,EPC band C,Parking,-2.1015996,57.159882
+11 Sunnybank Road,Aberdeen,AB24 3NJ,George St/Harbour,2,1,1,500,60,Flat,CT Band C,EPC band C,Parking,-2.1013702,57.1604811
+57 Wallacebrae Wynd,Aberdeen,AB22 8YD,Dyce/Bucksburn/Danestone,1,1,1,450,42,Flat,CT Band B,EPC band D,Parking,-2.1398416,57.1823888
+80 Grandholm Crescent,Aberdeen,AB22 8BA,Dyce/Bucksburn/Danestone,1,1,1,480,48,Flat,CT Band C,EPC band C,Parking,-2.1224987,57.1772211
+13 Fraser Road,Aberdeen,AB25 3UD,George St/Harbour,1,1,1,375,36,Flat,CT Band A,EPC band D,,-2.1083025,57.1542678
+12a King's Gate,Aberdeen,AB15 4EJ,Midstocket/Rosemount,2,2,2,895,82,House Terraced,CT Band F,EPC band C,Parking,-2.132197181,57.147651
+38b Charlotte Street,Aberdeen,AB25 1LT,George St/Harbour,1,1,1,450,54,Flat,CT Band B,EPC band D,,-2.1041059,57.1507691
+6 Richmond Terrace,Aberdeen,AB25 2RN,Midstocket/Rosemount,2,1,1,500,57,Flat,CT Band D,EPC band F,,-2.1138907,57.1507948
+"23, The Galleria,  Langstane Place",Aberdeen,AB11 6FB,Torry/Ferryhill,2,2,1,600,65,Flat,CT Band D,EPC band C,,-2.1049451,57.1437428
+24 Union Wynd,Aberdeen,AB10 1SL,Midstocket/Rosemount,2,1,1,575,57,Flat,CT Band C,EPC band D,,-2.1088023,57.1450956
+263 Clifton Road,Aberdeen,AB24 4HJ,Hilton/Woodside/Stockethill,2,1,1,650,78,Flat,CT Band D,EPC band D,,-2.1254047,57.1674603
+8 Fraser Street,Aberdeen,AB25 3XS,George St/Harbour,1,1,1,400,43,Flat,CT Band A,EPC band E,,-2.1088619,57.1558164
+"Basement Flat,  17 Summerfield Terrace",Aberdeen,AB24 5JB,George St/Harbour,1,1,1,400,44,Flat,CT Band A,EPC band E,,-2.093393,57.1517151
+284 Rosemount Place,Aberdeen,AB25 2YA,Midstocket/Rosemount,1,1,1,425,45,Flat,CT Band B,EPC band D,,-2.112796,57.1505784
+49 Tay Road,Aberdeen,AB16 5LA,Northfield/Mastrick North,2,1,1,450,63,Flat,CT Band B,EPC band D,Parking,-2.16517,57.1608944
+3 Cadenhead Road,Aberdeen,AB25 3AJ,Midstocket/Rosemount,2,1,1,475,65,Flat,CT Band B,EPC band D,,-2.121345,57.1593722
+84 Polwarth Road,Aberdeen,AB11 8DB,Torry/Ferryhill,2,1,1,545,63,Flat,CT Band B,EPC band D,Parking,-2.0903,57.131238
+250 Union Grove,Aberdeen,AB10 6TS,Hazlehead/Queens Cross/Countesswells,1,1,1,450,65,Flat,CT Band B,EPC band C,Parking,-2.125364,57.1395376
+398 King Street,Aberdeen,AB24 3BY,George St/Harbour,2,1,1,420,50,Flat,CT Band A,EPC band D,,-2.0955259,57.1582093
+"Flat E,  135 Union Grove",Aberdeen,AB10 6SN,Hazlehead/Queens Cross/Countesswells,2,2,1,600,70,Flat,CT Band E,EPC band C,Parking,-2.1188669,57.1408667
+53 Huntly Street,Aberdeen,AB10 1TH,Midstocket/Rosemount,3,2,2,1200,156,Flat,CT Band E,EPC band D,Parking,-2.1083356,57.1456899
+13 Great Western Place,Aberdeen,AB10 6QN,Hazlehead/Queens Cross/Countesswells,1,1,1,490,39,Flat,CT Band C,EPC band C,,-2.117148,57.1399171
+"Flat C,  653 George Street",Aberdeen,AB25 3XQ,George St/Harbour,2,1,1,550,43,Flat,CT Band A,EPC band C,Parking,-2.1098634,57.1572192
+11 Northfield Place,Aberdeen,AB25 1SB,Midstocket/Rosemount,1,1,1,350,32,Flat,CT Band A,EPC band G,,-2.1133159,57.1480274
+138F King Street,Aberdeen,AB24 5BD,George St/Harbour,2,1,1,550,52,Flat,CT Band A,EPC band D,,-2.0938387,57.1510059
+77 Bloomfield Court,Aberdeen,AB10 6DS,Torry/Ferryhill,2,1,1,575,53,Flat,CT Band D,EPC band C,Parking,-2.1122463,57.1353645
+48 Union Grove,Aberdeen,AB10 6RX,Hazlehead/Queens Cross/Countesswells,2,1,1,495,45,Flat,CT Band B,EPC band C,,-2.1148511,57.1416584
+70 Spital,Aberdeen,AB24 3JU,George St/Harbour,2,1,1,625,77,Flat,CT Band B,EPC band D,Parking,-2.0996032,57.1592038
+34 Erskine Street,Aberdeen,AB24 3NQ,George St/Harbour,1,1,1,450,39,Flat,CT Band B,EPC band E,Parking,-2.1100861,57.1599973
+1 Orchard Road,Aberdeen,AB24 3DP,Tillydrone/Seaton/Old Aberdeen,2,1,1,675,63,House Terraced,CT Band D,EPC band D,Parking,-2.0976586,57.1617503
+43 Wallfield Crescent,Aberdeen,AB25 2LB,Midstocket/Rosemount,2,1,1,950,43,Flat,CT Band B,EPC band D,,-2.1202241,57.147762
+2 Springfield Road,Aberdeen,AB15 7RQ,Airyhall/Broomhill/Garthdee,5,2,2,1750,178,House Semi Detached,CT Band F,EPC band C,Parking,-2.143515,57.1274842
+55 Esslemont Avenue,Aberdeen,AB25 1SS,Midstocket/Rosemount,1,1,1,425,35,Flat,CT Band A,EPC band E,,-2.1163669,57.1489017
+"Flat D,  10 Tullos Place",Aberdeen,AB11 8HN,Torry/Ferryhill,2,1,1,500,60,Flat,CT Band B,EPC band C,,-2.082128,57.1334742
+"Flat 2,  44-46 Upperkirkgate",Aberdeen,AB10 1BA,George St/Harbour,1,1,1,325,26,Flat,CT Band A,EPC band C,,-2.0986494,57.1485856
+15 Roslin Street,Aberdeen,AB24 5NT,George St/Harbour,2,1,1,450,48,Flat,CT Band B,EPC band D,,-2.090201015,57.15427582
+"Flat A,  342 King Street",Aberdeen,AB24 5BJ,George St/Harbour,2,1,1,595,66,Flat,CT Band B,EPC band D,,-2.094723,57.1551271
+"Flat I,  1 Castlehill",Aberdeen,AB11 5GD,George St/Harbour,2,1,1,550,75,Flat,CT Band B,EPC band D,,-2.0914004,57.1481525
+"Flat D,  160 Crown Street",Aberdeen,AB11 6HX,Torry/Ferryhill,2,1,1,475,56,Flat,CT Band C,EPC band D,,-2.1010206,57.1407203
+179 Rosemount Place,Aberdeen,AB25 2XP,Midstocket/Rosemount,2,1,1,495,57,Flat,CT Band C,EPC band C,,-2.1179039,57.1494752
+4 Holburn View,Aberdeen,AB11 6TA,Torry/Ferryhill,2,1,1,700,60,Flat,CT Band D,EPC band C,Parking,-2.111512507,57.1374379
+74 Fonthill Avenue,Aberdeen,AB11 6TG,Torry/Ferryhill,2,1,1,650,58,Flat,CT Band D,EPC band C,Parking,-2.1113891,57.1379643
+10B Justice Street,Aberdeen,AB11 5HR,George St/Harbour,1,1,1,425,41,Flat,CT Band B,EPC band D,,-2.0917408,57.1485467
+"Flat F,  58 Esslemont Avenue",Aberdeen,AB25 1SR,Midstocket/Rosemount,1,1,1,425,35,Flat,CT Band A,EPC band C,,-2.1163956,57.1492539
+"Flat E,  48 Menzies Road",Aberdeen,AB11 9BD,Torry/Ferryhill,2,1,1,495,66,Flat,CT Band B,EPC band C,,-2.0903341,57.1375157
+14 Sir William Wallace Wynd,Aberdeen,AB24 1UW,Tillydrone/Seaton/Old Aberdeen,2,1,1,525,59,Flat,CT Band D,EPC band C,Parking,-2.0958141,57.1708785
+296 Union Grove,Aberdeen,AB10 6TP,Hazlehead/Queens Cross/Countesswells,1,1,1,500,52,Flat,CT Band A,EPC band D,Parking,-2.129123,57.138761
+9 Ashgrove Avenue,Aberdeen,AB25 3BQ,Midstocket/Rosemount,2,1,1,650,71,Flat,CT Band D,EPC band C,Parking,-2.119382281,57.15942369
+"Flat A,  5 Cuparstone Court",Aberdeen,AB10 6FB,Hazlehead/Queens Cross/Countesswells,2,1,1,575,64,Flat,CT Band C,EPC band D,Parking,-2.114869,57.1403651
+49 Wallacebrae Crescent,Aberdeen,AB22 8YE,Dyce/Bucksburn/Danestone,2,1,1,900,51,House Semi Detached,CT Band D,EPC band D,Parking,-2.1378082,57.1816352
+24d Crown Street,Aberdeen,AB11 6AY,Torry/Ferryhill,2,1,1,625,61,Flat,CT Band D,EPC band C,Parking,-2.103429,57.14422
+11 Rosebank Place,Aberdeen,AB11 6XN,Torry/Ferryhill,3,1,1,530,53,Flat,CT Band C,EPC band D,Parking,-2.110026,57.139723
+31 Spital Walk,Aberdeen,AB24 3JH,Tillydrone/Seaton/Old Aberdeen,2,1,1,475,38,Flat,CT Band A,EPC band D,Parking,-2.1004844,57.161272
+"26H,  Castle Street",Aberdeen,AB11 5BG,George St/Harbour,2,2,1,695,125,Flat,CT Band E,EPC band E,,-2.092055,57.148402
+"Flat H,  51 Fonthill Road",Aberdeen,AB11 6UQ,Torry/Ferryhill,2,1,1,525,50,Flat,CT Band D,EPC band E,Parking,-2.1105358,57.1371109
+346 King Street,Aberdeen,AB24 5BJ,George St/Harbour,2,2,1,695,59,Flat,CT Band C,EPC band B,,-2.0948354,57.1551873
+31 Justice Street,Aberdeen,AB11 5HS,George St/Harbour,2,1,1,500,48,Flat,CT Band A,EPC band D,,-2.0914029,57.1489248
+"Flat A,  12 Seaton Avenue",Aberdeen,AB24 1XB,Tillydrone/Seaton/Old Aberdeen,2,1,1,450,57,Flat,CT Band B,EPC band E,,-2.0934606,57.1678847
+"Flat 28, Society Court,  Society Lane",Aberdeen,AB24 4DE,Hilton/Woodside/Stockethill,2,1,1,550,62,Flat,CT Band C,EPC band C,Parking,-2.1317757,57.1715084
+33 Charleston Gardens,Aberdeen,AB12 3QF,Kincorth/Nigg/Cove,1,1,1,420,42,Flat,CT Band B,EPC band D,Parking,-2.0980649,57.0967014
+11 Mosman Gardens,Aberdeen,AB24 4LZ,Hilton/Woodside/Stockethill,1,1,1,395,47,Flat,CT Band B,EPC band E,Parking,-2.1332026,57.1659216
+101 Links Road,Aberdeen,AB24 5EH,George St/Harbour,3,2,1,995,90,Flat,CT Band E,EPC band C,Parking,-2.0812475,57.1507591
+"Flat A,  2 Upperkirkgate",Aberdeen,AB10 1BA,George St/Harbour,1,1,1,525,45,Flat,CT Band B,EPC band F,,-2.097686615,57.14912345
+653A George Street,Aberdeen,AB25 3XQ,George St/Harbour,2,1,1,550,48,Flat,CT Band B,EPC band D,,-2.1098327,57.1572297
+"15 Martins Lane, Rennie's Wynd",Aberdeen,AB11 6NR,George St/Harbour,2,1,1,550,66,Flat,CT Band D,EPC band C,Parking,-2.0987069,57.1456879
+"26 Rennies Court,  The Green",Aberdeen,AB11 6NZ,George St/Harbour,2,1,1,550,60,Flat,CT Band D,EPC band C,,-2.0991153,57.1454127
+653H George Street,Aberdeen,AB25 3XQ,George St/Harbour,1,1,1,395,34,Flat,CT Band A,EPC band C,,-2.1098634,57.1572192
+659G George Street,Aberdeen,AB25 3XQ,George St/Harbour,1,1,1,395,29,Flat,CT Band A,EPC band C,,-2.1099345,57.1573181
+10H Justice Street,Aberdeen,AB11 5HR,George St/Harbour,1,1,1,425,36,Flat,CT Band B,EPC band C,,-2.0917408,57.1485467
+"27 Martin's Lane,  The Green",Aberdeen,AB11 6NR,George St/Harbour,2,1,1,550,67,Flat,CT Band D,EPC band D,Parking,-2.09997458,57.1452085
+659A George Street,Aberdeen,AB25 3XQ,George St/Harbour,1,1,1,425,43,Flat,CT Band A,EPC band D,,-2.1099345,57.1573181
+"Flat B,  653 George Street",Aberdeen,AB25 3XQ,George St/Harbour,1,1,1,425,37,Flat,CT Band A,EPC band D,,-2.1096424,57.1572157
+"26C,  Castle Street",Aberdeen,AB11 5BG,George St/Harbour,1,1,1,500,40,Flat,CT Band A,EPC band D,,-2.0920874,57.1484411
+"The Galleria,  15 Langstane Place",Aberdeen,AB11 6FB,Torry/Ferryhill,2,2,1,600,49,Flat,CT Band D,EPC band C,Parking,-2.106015,57.143849
+"24 Rennie's Court,  The Green",Aberdeen,AB11 6NZ,George St/Harbour,2,1,1,550,74,Flat,CT Band D,EPC band C,,-2.0991034,57.1455977
+18a Golden Square,Aberdeen,AB10 1RH,Midstocket/Rosemount,3,2,1,1300,91,Flat,CT Band B,EPC band C,,-2.105671,57.1458106
+"Flat 17, Mill House,  Grandholm Crescent",Aberdeen,AB22 8BB,Dyce/Bucksburn/Danestone,1,1,1,995,73,Flat,CT Band D,EPC band C,Parking,-2.1245412,57.1771772
+22b Crown Street,Aberdeen,AB11 6AY,Torry/Ferryhill,2,2,1,1400,63,Flat,CT Band D,EPC band B,Parking,-2.1032946,57.1442671
+6 Rennies Court,Aberdeen,AB11 6NZ,George St/Harbour,2,1,1,550,56,Flat,CT Band D,EPC band C,,-2.099134,57.144852
+21 Castle Street,Aberdeen,AB11 5BQ,George St/Harbour,3,1,1,850,92,Flat,CT Band C,EPC band C,,-2.092863,57.148091
+148 Grandholm Crescent,Aberdeen,AB22 8BA,Dyce/Bucksburn/Danestone,3,2,1,1000,79,Flat,CT Band D,EPC band E,Parking,-2.1235752,57.1762557
+25 Craigieburn Park,Aberdeen,AB15 7SG,Hazlehead/Queens Cross/Countesswells,3,1,1,1350,82,Flat,CT Band F,EPC band C,Parking,-2.1542056,57.1351307
+"137h Regency Court,  Union Grove",Aberdeen,AB10 6SN,Hazlehead/Queens Cross/Countesswells,3,2,1,1350,98,Flat,CT Band E,EPC band C,Parking,-2.1192819,57.1407473
